@@ -64,9 +64,9 @@ _Previsão de Conclusão: Junho de 2026_
 
 <p align="left">
   <a href="https://www.linkedin.com/in/seu-linkedin/" target="_blank">
-    <img src="https://img.shields.io/badge/-LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white" />
+    <img src="https://www.linkedin.com/in/daviddanielbarcelos/" />
   </a>
-  <a href="mailto:seuemail@gmail.com">
+  <a href="mailto:davidbarcelosdaniel@gmail.com">
     <img src="https://img.shields.io/badge/-Gmail-EA4335?style=flat&logo=gmail&logoColor=white" />
   </a>
   <a href="https://seuportfolio.com" target="_blank">
