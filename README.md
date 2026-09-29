@@ -1,3 +1,5 @@
+<a name="pt"></a>
+
 <a href="https://portfolio-david-daniel.vercel.app/pt">
   <img src="./assets/header-pt.svg" width="100%" alt="David Daniel, Desenvolvedor Full Stack Júnior em Brasília. TypeScript, React, Angular, Next.js e Node.js.">
 </a>
@@ -104,7 +106,7 @@ Desenvolvedor full stack júnior na **MV Gois**, em Brasília. Criei o sistema d
   <img src="./assets/header-en.svg" width="100%" alt="David Daniel, Junior Full Stack Developer in Brasília, Brazil. TypeScript, React, Angular, Next.js and Node.js.">
 </a>
 
-<p align="right"><a href="#readme">PT</a> &nbsp;·&nbsp; <b>EN</b></p>
+<p align="right"><a href="#pt">PT</a> &nbsp;·&nbsp; <b>EN</b></p>
 
 Junior full stack developer at **MV Gois** in Brasília, Brazil. I built the time-tracking system the employees at my company use every day. In 10 months I have shipped **216 tasks** for **3 clients** and **4 internal products**. I work with TypeScript, React, Angular, Next.js and Node.js, and I enjoy back-end work the most: business rules, integrations and data.
 
